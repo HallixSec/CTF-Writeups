@@ -1,11 +1,11 @@
 # Template
 Template format for CTF Writeups
 
-Challenge Name:\r\n
-Challenge URL:
+# Challenge Name:
+## Challenge URL:
 
-# Challenge Description:
+## Challenge Description:
 
-# Solution:
+## Solution:
 
 Notes:
