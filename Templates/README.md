@@ -3,13 +3,6 @@
 URL: \
 Author:
 ### Challenge Description:
-#
-> 
 ### Solution:
-#
-> 
-
 ---
-
 Notes:
-
