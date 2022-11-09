@@ -1,2 +1,11 @@
-# Writeups
-A collection of write ups for various CTF's
+# Template
+Template format for CTF Writeups
+
+Challenge Name:
+Challenge URL:
+
+Chanllenge Description:
+
+Solution:
+
+Notes:
