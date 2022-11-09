@@ -3,8 +3,9 @@
 
 ---
 
-### Challenge Name:
-### Challenge URL:
+# [Site]: Challenge Name:
+### URL:
+### Author:
 #
 ### Challenge Description:
 #
