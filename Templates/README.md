@@ -4,8 +4,8 @@ Template format for CTF Writeups
 Challenge Name:
 Challenge URL:
 
-Chanllenge Description:
+# Challenge Description:
 
-Solution:
+# Solution:
 
 Notes:
