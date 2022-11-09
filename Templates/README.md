@@ -1,7 +1,3 @@
-# CTF Writeup Template
-
----
-
 # Site: Challenge Name:
 ---
 URL: \
